@@ -87,6 +87,10 @@ main {
   margin: 4px;
 }
 
+.courses-header {
+  padding: 5rem 0;
+}
+
 @media (min-width: 992px) {
   nav .nav-link {
     margin-left: 1rem;
